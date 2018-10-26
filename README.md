@@ -1,6 +1,6 @@
 ## Daily-react-095-ebay-clone-app
 
-> Challenge: create a ebay clone app.
+> Challenge: create an "ebay" clone app.
 
 Work in progress: https://github.com/jamal7x7/daily-react-095-ebay-clone-app
 
